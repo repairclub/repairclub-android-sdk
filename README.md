@@ -49,7 +49,7 @@ Add directly to your app module’s `build.gradle.kts` (or `build.gradle`):
 
 ```kotlin
 dependencies {
-    implementation("com.github.RRCummins:RepairClubAndroidSDK:1.3.60")
+    implementation("com.github.repairclub:repairclub-android-sdk:1.4.63")
     // Other dependencies...
 }
 ```

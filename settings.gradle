@@ -16,5 +16,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RepairClubAndroidSDK"
+rootProject.name = "repairclub-android-sdk"
 include(":aarsdk")

@@ -81,8 +81,8 @@ afterEvaluate {
     publishing {
         publications {
             release(MavenPublication) {
-                groupId = "com.github.RRCummins"
-                artifactId = "RepairClubAndroidSDK"
+                groupId = "com.github.repairclub"
+                artifactId = "repairclub-android-sdk"
                 version = "1.4.63"  // Match with versionName and git tag
 
                 artifact(file("libs/RepairClubSDK-release.aar")) {
