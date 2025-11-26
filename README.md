@@ -22,16 +22,17 @@ dependencyResolutionManagement {
 
 ### 2. Add the SDK Dependency
 
-#### If Using Version Catalog (`libs.versions.toml`)
+#### If You Are Using Version Catalog (`libs.versions.toml`)
 
 Add the following entries to your `libs.versions.toml`:
 
 ```toml
 [versions]
-repairclubandroidsdk = "1.3.60"
+repairclub-sdk = "1.4.63"
 
 [libraries]
-repairclubandroidsdk = { module = "com.github.RRCummins:RepairClubAndroidSDK", version.ref = "repairclubandroidsdk" }
+# Key Format: group:artifact
+repairclub-sdk = { module = "com.github.repairclub:repairclub-android-sdk", version.ref = "repairclub-sdk" }
 ```
 
 Then, in your app module’s `build.gradle.kts`:
