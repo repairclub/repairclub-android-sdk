@@ -28,7 +28,7 @@ Add the following entries to your `libs.versions.toml`:
 
 ```toml
 [versions]
-repairclub-sdk = "1.4.82"
+repairclub-sdk = "1.4.83"
 
 [libraries]
 # Key Format: group:artifact
