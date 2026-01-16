@@ -10,12 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [1.4.84] - 2026-1-15
+## [1.4.86] - 2026-1-16
 ### Added
 - Added new logging flow
 - Added new clear codes flow
 ### Fixed
 - Added config logging
+- Fixes a bug with config downloading
 
 ---
 
