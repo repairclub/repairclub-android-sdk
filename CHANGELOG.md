@@ -10,6 +10,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.00] - 2026-3-12
+### Added
+- 
+### Fixed
+- Added bus sync bug
+
+---
+
 ## [1.4.86] - 2026-1-16
 ### Added
 - Added new logging flow
