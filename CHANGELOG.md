@@ -10,11 +10,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.6.02] - 2026-3-30
+### Added
+- Adds AVR where supported
+- Adds new connection log
+
+### Fixed
+- Fixes unsupport bus bug
+
+---
+
 ## [1.5.00] - 2026-3-12
 ### Added
 - 
 ### Fixed
-- Added bus sync bug
+- Fixed bus sync bug
 
 ---
 
@@ -23,7 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added new logging flow
 - Added new clear codes flow
 ### Fixed
-- Added config logging
+- Fixes config logging
 - Fixes a bug with config downloading
 
 ---
