@@ -10,6 +10,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.6.10] - 2026-5-06
+### Added
+- Adds DTC description source enum
+
+### Fixed
+- Fixes crash with production release notes NULL API response
+
+---
+
 ## [1.6.02] - 2026-3-30
 ### Added
 - Adds AVR where supported
