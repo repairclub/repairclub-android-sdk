@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.6.24] - 2026-8-13
+### Added
+- Support for new devices
+
+### Fixed
+
+
+---
+
 ## [1.6.11] - 2026-5-19
 ### Added
 
