@@ -7,12 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [1.6.24] - 2026-8-13
+## [1.6.27] - 2026-10-06
 ### Added
 - Support for new devices
 
 ### Fixed
-
+v1.6.27, b217
+- Adds support for new BLE firmware
+- Adds support for new firmware
+- Improves session event logging
 
 ---
 
