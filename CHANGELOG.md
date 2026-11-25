@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.6.28] - 2026-11-24
+
+### Fixed
+- Fixes logging failure loop
+- Fixes logging bugs
+
+---
+
 ## [1.6.27] - 2026-10-06
 ### Added
 - Support for new devices
